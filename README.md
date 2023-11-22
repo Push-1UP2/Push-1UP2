@@ -25,3 +25,5 @@ Header
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Push_1UP)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/push_1up)
+
+[![Aleksej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Push-1UP2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
