@@ -22,4 +22,6 @@ Header
 <!-- ![CharlesProxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=CharlesProxy) -->
 <!-- ![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddler) -->
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Push_1UP)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/push_1up)
