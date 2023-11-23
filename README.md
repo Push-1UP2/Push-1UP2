@@ -14,6 +14,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-0A1420?style=for-the-badge&logo=AndroidStudio)
 ![Git](https://img.shields.io/badge/-Git-0A1420?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0A1420?style=for-the-badge&logo=GitHub)
+![Blender](https://img.shields.io/badge/-Blender-0A1420?style=for-the-badge&logo=Blender)
 <!-- ![Parawise](https://img.shields.io/badge/-Parawise-0A1420?style=for-the-badge&logo=Parawise) -->
 <!-- ![Qase](https://img.shields.io/badge/-Qase-0A1420?style=for-the-badge&logo=Qase) -->
 <!-- ![Testit](https://img.shields.io/badge/-Testit-0A1420?style=for-the-badge&logo=Testit) -->
