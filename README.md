@@ -1,6 +1,6 @@
 ![Header](https://github.com/Push-1UP2/Push-1UP2/blob/main/assets/kandinsky-download-1700682675464.png)
 
-## I'm a begginer Tester and Software Engineer
+<h3 align="center">I'm a begginer Tester and Software Engineer</h3>
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-0A1420?style=for-the-badge&logo=Python)
