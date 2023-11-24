@@ -50,8 +50,14 @@
 <!-- ![CharlesProxy](https://img.shields.io/badge/-Charles_Proxy-0A1420?style=for-the-badge&logo=CharlesProxy) -->
 <!-- ![Fiddler](https://img.shields.io/badge/-Fiddler-0A1420?style=for-the-badge&logo=Fiddler) -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=push-1up2&show_icons=true&locale=en&layout=compact" alt="push-1up2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=push-1up2&show_icons=true&locale=en" alt="push-1up2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=push-1up2&" alt="push-1up2" /></p>
+
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-0A1420?style=for-the-badge&logo=Telegram)](https://t.me/Push_1UP)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-0A1420?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/push_1up)
 
-[![Aleksej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Push-1UP2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Aleksej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Push-1UP2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
