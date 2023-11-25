@@ -32,8 +32,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://qase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/b746583f3edc812ef7c20d3cc9d82a7d5be33a98/icons/qase.svg" alt="qase" width="40" height="40"/> </a>
-<a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/6dd4391f4855e11c4b959fac0b5bed71cbef6f30/logos/svg/chrome-devtools-square-responsive.svg
-" alt="devtools" width="40" height="40"/> </a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/6dd4391f4855e11c4b959fac0b5bed71cbef6f30/logos/svg/chrome-devtools-square-responsive.svg" alt="devtools" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/ru-ru/youtrack/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/YouTrack_Icon.svg" alt="devtools" width="40" height="40"/> </a>
 </p>
 
