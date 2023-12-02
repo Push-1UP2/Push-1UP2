@@ -5,8 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=push-1up2&label=Profile%20views&color=0e75b6&style=flat" alt="push-1up2" /> </p>
 
 <h3 align="left">Connect with me: </h3>
-<p align="left"> <a href="https://t.me/Push_1UP" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@Push_1UP" width="40" height="40"/> </a>
-<a href="https://vk.com/push_1up" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="@push_1up" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://t.me/Push_1UP" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@Push_1UP2" width="40" height="40"/> </a>
+<a href="https://vk.com/push_1up" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="@push_1up2" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/push_1up2/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="@push_1up2" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -40,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=push-1up2&" alt="push-1up2" /></p>
 
-<!-- [![Aleksej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Push-1UP2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Aleksey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Push-1UP2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
