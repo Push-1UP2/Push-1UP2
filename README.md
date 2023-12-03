@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left"> <a href="https://t.me/Push_1UP2" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@Push_1UP2" width="40" height="40"/> </a>
 <a href="https://vk.com/push_1up2" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="@push_1up2" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/push_1up2/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="@push_1up2" width="40" height="40"/> </a>
+<!-- <a href="https://www.instagram.com/push_1up2/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="@push_1up2" width="40" height="40"/> </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
